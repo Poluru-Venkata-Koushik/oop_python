@@ -1,0 +1,18 @@
+methods are function in classes
+class-design/blueprint
+to create an object , a class has to be created
+object-instances
+
+attributes are the variables 
+and methods are the behaviour
+
+constructor is responsible for calculating the  memory required
+
+instance variables can be changed 
+while class variables(declared outside the methods) 
+
+getters - accessors
+seters are mutators
+
+@classmethod to use cls for self 
+@staticmethod if u dont need any instance or class variables
